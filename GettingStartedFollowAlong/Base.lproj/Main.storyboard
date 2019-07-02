@@ -35,7 +35,7 @@
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4ag-tv-Qpd">
                                         <rect key="frame" x="0.0" y="108.5" width="374" height="30"/>
-                                        <state key="normal" title="Submit"/>
+                                        <state key="normal" title="Button"/>
                                     </button>
                                 </subviews>
                                 <constraints>
